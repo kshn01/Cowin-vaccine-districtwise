@@ -1,5 +1,4 @@
 # [Cowin-vaccine-districtwise]()
-Automated Python Script to retrieve vaccine slots availability and get notified when a slot is available.
 
 Get the list of available vaccine center and slots in your district
 
