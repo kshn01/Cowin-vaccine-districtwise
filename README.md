@@ -13,3 +13,6 @@ pip install requests
 
 ## Inspired from:
 [ayushi7rawat/CoWin-Vaccine-Notifier](https://github.com/ayushi7rawat/CoWin-Vaccine-Notifier)
+
+
+https://cdn-api.co-vin.in/api/v2/appointment/sessions/public/calendarByDistrict?district_id=512&date=28-09-2021
